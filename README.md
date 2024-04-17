@@ -12,6 +12,7 @@ Cet algorithme est un tri classique enseigné dans les écoles de code et est so
 4 - Le programme doit afficher dans la console le nom de l'algorithme utilisé, suivi du nombre de comparaisons effectuées, puis le tableau résultant de la sortie de ton algorithme.
 
 
+
 Projet 2 :
 
 Dans ce projet, tu vas implémenter des algorithmes concrets visant à optimiser des parcours de listes. Voici un résumé des sujets et des exercices proposés :
@@ -23,10 +24,15 @@ Sujet 2 : Déterminer combien de bâtiments dans une rue ont une vue sur le sole
 Exercices :
 
 Exercice 1 : Résoudre le Sujet 1 avec une complexité algorithmique de O(n²) en utilisant deux boucles imbriquées.
+
 Exercice 2 : Résoudre le Sujet 2 avec une complexité algorithmique de O(n²) en utilisant deux boucles imbriquées.
+
 Exercice 3 : Résoudre le Sujet 1 avec une complexité algorithmique de O(n) sans boucles imbriquées.
+
 Exercice 4 : Résoudre le Sujet 2 avec une complexité algorithmique de O(n) sans boucles imbriquées.
+
 Exercice 5 : Résoudre le Sujet 1 en ne faisant qu'un seul passage sur la liste.
+
 Exercice 6 : Résoudre le Sujet 2 en ne faisant qu'un seul passage sur la liste.
 
 Une fois terminé, tu devrais avoir 6 programmes, chacun implémentant un algorithme optimisé pour résoudre un problème spécifique.
